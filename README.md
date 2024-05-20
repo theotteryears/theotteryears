@@ -1,5 +1,5 @@
 <h1 align="left">Hi 😸, I'm Chris</h1>
-<h3 align="left">A passionate full-stack/frontend developer from Brighton, UK</h3>
+<h3 align="left">I am an eager and passionate full-stack/frontend developer from Brighton, UK.</h3>
 
 - 📫 You can reach me here ---> **theotteryears@me.com**
 
