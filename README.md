@@ -1,7 +1,9 @@
 <h1 align="center">Hi 😸, I'm Chris</h1>
 <h3 align="center">A passionate full-stack/frontend developer from Brighton, UK</h3>
-
+<p align="center"> 
 - 📫 How to reach me **theotteryears@me.com**
+</p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
