@@ -1,6 +1,6 @@
 <h1 align="left">Hi 😸, I'm Chris</h1>
 <h3 align="left">I am an eager and passionate full-stack/frontend developer from Brighton, UK</h3>
-<h4>I'm a recent web development bootcamp graduate from Le Wagon. With a strong foundation in full-stack development, I specialize in Ruby on Rails, PostgreSQL, JavaScript (ES6) with Stimulus.js, and SCSS.</h4> 
+<h4>I'm a recent web development bootcamp graduate from Le Wagon. With a strong foundation in full-stack development, I specialise in Ruby on Rails, PostgreSQL, JavaScript (ES6) with Stimulus.js, and SCSS.</h4> 
 <h4>I'm passionate about building beautiful and efficient, user-friendly web applications and I am continuously learning new technologies to enhance my skills.</h4>
 <h4>🌱🤓 - I'm currently learning Tailwind, Svelte and Inertia.js</h4>
 
