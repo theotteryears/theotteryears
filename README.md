@@ -3,6 +3,7 @@
 <h4>I'm a recent web development bootcamp graduate from Le Wagon. With a strong foundation in full-stack development, I specialise in Ruby on Rails, PostgreSQL, JavaScript (ES6) with Stimulus.js, and SCSS.</h4> 
 <h4>I'm passionate about building beautiful and efficient, user-friendly web applications and I am continuously learning new technologies to enhance my skills.</h4>
 <h4>🌱🤓 - I'm currently learning Tailwind, Svelte and Inertia.js</h4>
+<h4>🥁😻 - Oh, and I love drums and cats</h4>
 
 📫👋🏻 You can reach me here ---> **theotteryears@me.com**
 
