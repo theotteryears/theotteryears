@@ -4,6 +4,7 @@
 <h4>I'm passionate about building beautiful and efficient, user-friendly web applications and I am continuously learning new technologies to enhance my skills.</h4>
 <p>🌱🤓 - I'm currently learning Tailwind, Svelte and Inertia.js</p>
 <p>🥁😻 - Oh, and I love drums and cats</p>
+
 📫👋🏻 - You can reach me here ---> **theotteryears@me.com**
 
 <h3 align="left">Connect with me</h3>
