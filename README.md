@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Chris 😸</h1>
-<h3 align="left">I am an aspiring full-stack/frontend developer from Brighton, UK</h3>
+<h3 align="left">I am an aspiring junior full-stack/frontend developer from Brighton, UK</h3>
 <p>I'm a recent web development bootcamp graduate from Le Wagon. With a strong foundation in full-stack development, I'm passionate about building beautiful and efficient, user-friendly web applications and I am continuously learning new technologies to enhance my skills.</p>
 <p>🌱🤓 - I'm currently learning React and Typescript</p>
 <p>🥁😻 - I love drums and cats</p>
