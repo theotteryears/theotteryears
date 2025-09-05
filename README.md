@@ -1,5 +1,5 @@
 <p>I'm a recent web development bootcamp graduate from Le Wagon. With a strong foundation in full-stack development, I'm passionate about building beautiful and efficient, user-friendly web applications and I am continuously learning new technologies to enhance my skills.</p>
-<p>🌱🤓 - I'm currently learning React.js, Next.js and Typescript</p>
+<p>🌱🤓 - I'm currently working on a Rails 8 app using Phlex components</p>
 <p>🥁😻 - I love drums and cats</p>
 
 📫👋🏻 - You can reach me here ---> **theotteryears@me.com**
