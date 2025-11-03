@@ -1,8 +1,3 @@
-<p>I'm a recent web development bootcamp graduate from Le Wagon. With a strong foundation in full-stack development, I'm passionate about building beautiful and efficient, user-friendly web applications and I am continuously learning new technologies to enhance my skills.</p>
-<p>I'm currently working on a Rails 8 app using Phlex components</p>
-
-You can reach me here ---> **theotteryears@me.com**
-
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chris-collis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chris-collis" height="30" width="40" /></a>
